@@ -253,6 +253,5 @@ if multi_counties:
     growth_sentence = " | ".join(growth_summaries)
     st.success(f"Forecasted EV adoption growth over next 3 years — {growth_sentence}")
 
-st.success("Forecast complete")
+st.success("Forecast is Completed")
 
-st.markdown("Prepared for the **AICTE Internship Cycle 2 by S4F**")
